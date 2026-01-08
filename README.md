@@ -21,5 +21,5 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/Pablo257-lol/tarot-telegram-bot.git
+git clone https://github.com/yourusername/tarot-telegram-bot.git
 cd tarot-telegram-bot
